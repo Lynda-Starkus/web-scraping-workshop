@@ -5,6 +5,7 @@ import requests
 #Pandas is used to manipulate tables
 import pandas as pd
 
+
 #Always add this header otherwise the targeted URL will suspect that it's not a human-made request but a bot :3 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36'}
 
